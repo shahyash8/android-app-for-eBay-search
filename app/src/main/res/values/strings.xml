@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ebaysearch</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+        <string-array name="sortby_array">
+            <item>Best Match</item>
+            <item>Price: highest first</item>
+            <item>Price+Shipping: highest first</item>
+            <item>Price+Shipping: lowest first</item>
+        </string-array>
+
+    <color name="errorcolor">#FF0000</color>
+    <string name="title_activity_display_ebay_data">displayEbayData</string>
+    <string name="title_activity_item_details">itemDetails</string>
+
+</resources>
